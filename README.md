@@ -1,4 +1,4 @@
-# Concept-Drift-SDP
+# Drift-Detection-and-Adaptation (Senior Design Project)
 
 Data drift and concept drift are two types of changes that can happen in the input data that machine learning models use to make predictions. 
 
