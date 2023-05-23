@@ -1,5 +1,6 @@
 # Drift-Detection-and-Adaptation (Senior Design Project)
 Video Link : https://drive.google.com/file/d/1iVsMsnhUe7u7wrEg-a0PPQJWhCkHJBSe/view?usp=share_link
+
 Data drift and concept drift are two types of changes that can happen in the input data that machine learning models use to make predictions. 
 
 Data drift happens when the statistical properties of the input data change over time. For example, let's say you have a machine learning model that predicts which customers are most likely to churn (stop using) your company's service. If you trained the model using data from the past year, but the customers' behavior or preferences change over time, the model's predictions may become less accurate. This is because the statistical properties of the input data have shifted, and the model may not be able to capture the new patterns in the data.
