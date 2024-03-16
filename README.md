@@ -1,5 +1,5 @@
 # Drift-Detection-and-Adaptation (Senior Design Project)
-Video Link : https://drive.google.com/file/d/1iVsMsnhUe7u7wrEg-a0PPQJWhCkHJBSe/view?usp=share_link
+
 
 Data drift and concept drift are two types of changes that can happen in the input data that machine learning models use to make predictions. 
 
